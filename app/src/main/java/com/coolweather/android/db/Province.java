@@ -7,6 +7,10 @@ public class Province extends DataSupport {
     private String provinceName;
     private int provinceCode;
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/master
     public int getId() {
         return id;
     }
@@ -31,4 +35,7 @@ public class Province extends DataSupport {
         this.provinceCode = provinceCode;
     }
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/master
