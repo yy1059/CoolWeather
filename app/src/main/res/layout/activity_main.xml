@@ -4,11 +4,10 @@
     android:layout_height="match_parent"
     >
 
-    <fragment
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:name="com.coolweather.android.ChooseAreaFragment"
-        android:id="@+id/choose_area_fragment"/>
-
+<fragment
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:name="com.coolweather.android.ChooseAreaFragment"
+    android:id="@+id/choose_area_fragment"/>
 
 </FrameLayout>
